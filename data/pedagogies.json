@@ -1,1 +1,265 @@
-
+[
+  {
+    "name": "Project-Based Learning",
+    "slug": "project-based-learning",
+    "description": "Students learn by working over time on a meaningful project that results in a product, performance, or solution.",
+    "levels": [
+      "MOTS",
+      "HOTS"
+    ],
+    "tags": [
+      "projects",
+      "authentic",
+      "collaboration"
+    ],
+    "duration": "Multiple sessions",
+    "groupSize": "Individual / groups",
+    "preparation": "Moderate",
+    "full": true
+  },
+  {
+    "name": "Problem-Based Learning",
+    "slug": "problem-based-learning",
+    "description": "Students learn through investigating and responding to an authentic or complex problem.",
+    "levels": [
+      "MOTS",
+      "HOTS"
+    ],
+    "tags": [
+      "problems",
+      "inquiry",
+      "reasoning"
+    ]
+  },
+  {
+    "name": "Case-Based Learning",
+    "slug": "case-based-learning",
+    "description": "Students use cases to analyse situations, identify issues, and develop reasoned responses.",
+    "levels": [
+      "MOTS",
+      "HOTS"
+    ],
+    "tags": [
+      "cases",
+      "analysis",
+      "discussion"
+    ]
+  },
+  {
+    "name": "Inquiry-Based Learning",
+    "slug": "inquiry-based-learning",
+    "description": "Students investigate questions, gather information, and construct understanding through inquiry.",
+    "levels": [
+      "MOTS",
+      "HOTS"
+    ],
+    "tags": [
+      "questions",
+      "investigation",
+      "evidence"
+    ]
+  },
+  {
+    "name": "Experiential Learning",
+    "slug": "experiential-learning",
+    "description": "Students learn through experience followed by reflection and application.",
+    "levels": [
+      "MOTS",
+      "HOTS"
+    ],
+    "tags": [
+      "experience",
+      "reflection"
+    ]
+  },
+  {
+    "name": "Flipped Classroom",
+    "slug": "flipped-classroom",
+    "description": "Content exposure happens before class so classroom time can focus on application and interaction.",
+    "levels": [
+      "LOTS",
+      "MOTS"
+    ],
+    "tags": [
+      "pre-class",
+      "application"
+    ]
+  },
+  {
+    "name": "Peer Instruction",
+    "slug": "peer-instruction",
+    "description": "Students reason about a question, discuss their thinking with peers, and reconsider their answer.",
+    "levels": [
+      "LOTS",
+      "MOTS"
+    ],
+    "tags": [
+      "peer learning",
+      "concepts"
+    ]
+  },
+  {
+    "name": "Collaborative Learning",
+    "slug": "collaborative-learning",
+    "description": "Students work together to construct understanding or complete a shared learning task.",
+    "levels": [
+      "MOTS",
+      "HOTS"
+    ],
+    "tags": [
+      "groups",
+      "collaboration"
+    ]
+  },
+  {
+    "name": "Cooperative Learning",
+    "slug": "cooperative-learning",
+    "description": "Students work in structured groups with defined roles and shared responsibility.",
+    "levels": [
+      "MOTS"
+    ],
+    "tags": [
+      "groups",
+      "roles"
+    ]
+  },
+  {
+    "name": "Design Thinking",
+    "slug": "design-thinking",
+    "description": "Students empathise, define, ideate, prototype, and test solutions to meaningful problems.",
+    "levels": [
+      "HOTS"
+    ],
+    "tags": [
+      "design",
+      "iteration",
+      "creation"
+    ]
+  },
+  {
+    "name": "Challenge-Based Learning",
+    "slug": "challenge-based-learning",
+    "description": "Students work on a meaningful challenge and develop an actionable response.",
+    "levels": [
+      "HOTS"
+    ],
+    "tags": [
+      "challenge",
+      "action"
+    ]
+  },
+  {
+    "name": "Simulation-Based Learning",
+    "slug": "simulation-based-learning",
+    "description": "Students learn by participating in a realistic simulation or model of a situation.",
+    "levels": [
+      "MOTS",
+      "HOTS"
+    ],
+    "tags": [
+      "simulation",
+      "practice"
+    ]
+  },
+  {
+    "name": "Role Play",
+    "slug": "role-play",
+    "description": "Students take roles in a structured situation to explore perspectives, decisions, or processes.",
+    "levels": [
+      "MOTS",
+      "HOTS"
+    ],
+    "tags": [
+      "roles",
+      "perspectives"
+    ]
+  },
+  {
+    "name": "Debate",
+    "slug": "debate",
+    "description": "Students develop and defend positions using reasoning and evidence.",
+    "levels": [
+      "HOTS"
+    ],
+    "tags": [
+      "argument",
+      "evidence"
+    ]
+  },
+  {
+    "name": "Discussion-Based Learning",
+    "slug": "discussion-based-learning",
+    "description": "Structured discussion helps students develop, test, and communicate ideas.",
+    "levels": [
+      "MOTS",
+      "HOTS"
+    ],
+    "tags": [
+      "discussion",
+      "reasoning"
+    ]
+  },
+  {
+    "name": "Think-Pair-Share",
+    "slug": "think-pair-share",
+    "description": "Students first think independently, then discuss with a partner, and finally share with the class.",
+    "levels": [
+      "LOTS",
+      "MOTS"
+    ],
+    "tags": [
+      "participation",
+      "discussion"
+    ]
+  },
+  {
+    "name": "Gamification",
+    "slug": "gamification",
+    "description": "Learning activities use selected game elements to increase engagement and participation.",
+    "levels": [
+      "LOTS",
+      "MOTS"
+    ],
+    "tags": [
+      "engagement",
+      "game elements"
+    ]
+  },
+  {
+    "name": "Scenario-Based Learning",
+    "slug": "scenario-based-learning",
+    "description": "Students respond to realistic scenarios that require decisions or application.",
+    "levels": [
+      "MOTS",
+      "HOTS"
+    ],
+    "tags": [
+      "scenarios",
+      "decision-making"
+    ]
+  },
+  {
+    "name": "Reflective Learning",
+    "slug": "reflective-learning",
+    "description": "Students examine an experience or learning process and make meaning from it.",
+    "levels": [
+      "HOTS"
+    ],
+    "tags": [
+      "reflection",
+      "metacognition"
+    ]
+  },
+  {
+    "name": "Service Learning",
+    "slug": "service-learning",
+    "description": "Students connect learning with meaningful service or community-oriented activity.",
+    "levels": [
+      "HOTS"
+    ],
+    "tags": [
+      "community",
+      "application"
+    ]
+  }
+]
