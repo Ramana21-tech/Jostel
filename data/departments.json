@@ -1,1 +1,139 @@
-
+[
+  {
+    "name": "Computer Science",
+    "slug": "computer-science",
+    "full": true,
+    "contexts": [
+      "Programming labs",
+      "Systems and theory courses",
+      "Capstone/project courses"
+    ],
+    "challenges": [
+      "Students memorise syntax without problem-solving habits",
+      "Debugging is avoided",
+      "Projects are completed individually with little design thinking"
+    ],
+    "pedagogies": [
+      "Project-Based Learning",
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Inquiry-Based Learning",
+      "Flipped Classroom",
+      "Peer Instruction",
+      "Collaborative Learning",
+      "Design Thinking",
+      "Challenge-Based Learning",
+      "Simulation-Based Learning"
+    ],
+    "lots": [
+      "Flipped Classroom",
+      "Peer Instruction"
+    ],
+    "mots": [
+      "Project-Based Learning",
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Inquiry-Based Learning"
+    ],
+    "hots": [
+      "Project-Based Learning",
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Inquiry-Based Learning"
+    ],
+    "assessment": [
+      "Quiz",
+      "Short Answer",
+      "Concept Map",
+      "Problem-Solving Task",
+      "Case Analysis",
+      "Project"
+    ],
+    "evidence": [
+      "Milestone drafts",
+      "Final product",
+      "Presentation recording",
+      "Peer and self-assessment",
+      "Group problem-analysis sheet",
+      "Proposed solution",
+      "Debrief notes",
+      "Case analysis worksheet"
+    ],
+    "questions": [
+      "What do you want students to be able to build, not just explain?",
+      "Where do students usually get stuck \u2014 syntax, logic, or design?"
+    ]
+  },
+  {
+    "name": "Counselling Psychology",
+    "slug": "counselling-psychology"
+  },
+  {
+    "name": "Physics",
+    "slug": "physics"
+  },
+  {
+    "name": "Chemistry",
+    "slug": "chemistry"
+  },
+  {
+    "name": "Mathematics",
+    "slug": "mathematics"
+  },
+  {
+    "name": "English",
+    "slug": "english"
+  },
+  {
+    "name": "Commerce",
+    "slug": "commerce"
+  },
+  {
+    "name": "Economics",
+    "slug": "economics"
+  },
+  {
+    "name": "Management",
+    "slug": "management"
+  },
+  {
+    "name": "History",
+    "slug": "history"
+  },
+  {
+    "name": "Sociology",
+    "slug": "sociology"
+  },
+  {
+    "name": "Social Work",
+    "slug": "social-work"
+  },
+  {
+    "name": "Education",
+    "slug": "education"
+  },
+  {
+    "name": "Biotechnology",
+    "slug": "biotechnology"
+  },
+  {
+    "name": "Microbiology",
+    "slug": "microbiology"
+  },
+  {
+    "name": "Visual Communication",
+    "slug": "visual-communication"
+  },
+  {
+    "name": "Journalism",
+    "slug": "journalism"
+  },
+  {
+    "name": "Languages",
+    "slug": "languages"
+  },
+  {
+    "name": "Other / Not listed",
+    "slug": "other"
+  }
+]
