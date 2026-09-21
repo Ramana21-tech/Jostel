@@ -100,3 +100,6 @@
   font-size: 0.85rem;
   padding: 1.5rem 1rem;
 }
+
+a.card { color: inherit; }
+a.card:hover { text-decoration: none; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); }
