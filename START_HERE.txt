@@ -1,0 +1,14 @@
+JOSTEL — START HERE
+
+1. Extract this ZIP.
+2. Open the folder in VS Code.
+3. Right-click index.html.
+4. Select "Open with Live Server".
+
+OR run:
+python -m http.server 8000
+
+Then open:
+http://localhost:8000
+
+The website is a static HTML/CSS/JS project and does not require Node, Firebase, or a database to preview.

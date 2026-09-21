@@ -1,0 +1,1236 @@
+[
+  {
+    "name": "Computer Science",
+    "slug": "computer-science",
+    "contexts": [
+      "Programming labs",
+      "Systems and theory courses",
+      "Capstone/project courses"
+    ],
+    "challenges": [
+      "students memorise syntax without problem-solving habits",
+      "debugging is avoided",
+      "projects individually with little design thinking"
+    ],
+    "pedagogies": [
+      "Project-Based Learning",
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Inquiry-Based Learning",
+      "Flipped Classroom",
+      "Peer Instruction",
+      "Collaborative Learning",
+      "Design Thinking",
+      "Challenge-Based Learning",
+      "Simulation-Based Learning"
+    ],
+    "lots": [
+      "Flipped Classroom",
+      "Peer Instruction"
+    ],
+    "mots": [
+      "Project-Based Learning",
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Inquiry-Based Learning"
+    ],
+    "hots": [
+      "Project-Based Learning",
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Inquiry-Based Learning"
+    ],
+    "assessment": [
+      "Quiz",
+      "Short Answer",
+      "Concept Map",
+      "Problem-Solving Task",
+      "Case Analysis",
+      "Project"
+    ],
+    "evidence": [
+      "Milestone drafts",
+      "Final product",
+      "Presentation recording",
+      "Peer and self-assessment",
+      "Group problem-analysis sheet",
+      "Proposed solution",
+      "Debrief notes",
+      "Case analysis worksheet"
+    ],
+    "questions": [
+      "What do you want students to be able to build, not just explain?",
+      "Where do students usually get stuck — syntax, logic, or design?"
+    ]
+  },
+  {
+    "name": "Counselling Psychology",
+    "slug": "counselling-psychology",
+    "contexts": [
+      "Lectures and classroom sessions in Counselling Psychology",
+      "Practical, discussion or application activities in Counselling Psychology",
+      "Assignments, projects or course-based tasks in Counselling Psychology"
+    ],
+    "challenges": [
+      "Students may rely heavily on notes or recall.",
+      "Students may have limited opportunities to apply ideas in authentic situations.",
+      "Assessment may not always make higher-order thinking visible."
+    ],
+    "pedagogies": [
+      "Project-Based Learning",
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Inquiry-Based Learning",
+      "Experiential Learning",
+      "Flipped Classroom",
+      "Collaborative Learning",
+      "Discussion-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "lots": [
+      "Flipped Classroom",
+      "Think-Pair-Share"
+    ],
+    "mots": [
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Experiential Learning",
+      "Collaborative Learning"
+    ],
+    "hots": [
+      "Project-Based Learning",
+      "Inquiry-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "assessment": [
+      "Short Answer",
+      "Concept Map",
+      "Problem-Solving Task",
+      "Case Analysis",
+      "Project",
+      "Presentation",
+      "Reflective Journal",
+      "Performance Task"
+    ],
+    "evidence": [
+      "Student responses",
+      "Discussion notes",
+      "Drafts or working notes",
+      "Final product or performance",
+      "Peer/self-assessment",
+      "Reflection",
+      "Presentation recording"
+    ],
+    "questions": [
+      "What do you want students to be able to do, not just remember?",
+      "Where do students struggle most — understanding, application, reasoning, or communication?"
+    ]
+  },
+  {
+    "name": "Physics",
+    "slug": "physics",
+    "contexts": [
+      "Lectures and classroom sessions in Physics",
+      "Practical, discussion or application activities in Physics",
+      "Assignments, projects or course-based tasks in Physics"
+    ],
+    "challenges": [
+      "Students may rely heavily on notes or recall.",
+      "Students may have limited opportunities to apply ideas in authentic situations.",
+      "Assessment may not always make higher-order thinking visible."
+    ],
+    "pedagogies": [
+      "Project-Based Learning",
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Inquiry-Based Learning",
+      "Experiential Learning",
+      "Flipped Classroom",
+      "Collaborative Learning",
+      "Discussion-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "lots": [
+      "Flipped Classroom",
+      "Think-Pair-Share"
+    ],
+    "mots": [
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Experiential Learning",
+      "Collaborative Learning"
+    ],
+    "hots": [
+      "Project-Based Learning",
+      "Inquiry-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "assessment": [
+      "Short Answer",
+      "Concept Map",
+      "Problem-Solving Task",
+      "Case Analysis",
+      "Project",
+      "Presentation",
+      "Reflective Journal",
+      "Performance Task"
+    ],
+    "evidence": [
+      "Student responses",
+      "Discussion notes",
+      "Drafts or working notes",
+      "Final product or performance",
+      "Peer/self-assessment",
+      "Reflection",
+      "Presentation recording"
+    ],
+    "questions": [
+      "What do you want students to be able to do, not just remember?",
+      "Where do students struggle most — understanding, application, reasoning, or communication?"
+    ]
+  },
+  {
+    "name": "Chemistry",
+    "slug": "chemistry",
+    "contexts": [
+      "Lectures and classroom sessions in Chemistry",
+      "Practical, discussion or application activities in Chemistry",
+      "Assignments, projects or course-based tasks in Chemistry"
+    ],
+    "challenges": [
+      "Students may rely heavily on notes or recall.",
+      "Students may have limited opportunities to apply ideas in authentic situations.",
+      "Assessment may not always make higher-order thinking visible."
+    ],
+    "pedagogies": [
+      "Project-Based Learning",
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Inquiry-Based Learning",
+      "Experiential Learning",
+      "Flipped Classroom",
+      "Collaborative Learning",
+      "Discussion-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "lots": [
+      "Flipped Classroom",
+      "Think-Pair-Share"
+    ],
+    "mots": [
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Experiential Learning",
+      "Collaborative Learning"
+    ],
+    "hots": [
+      "Project-Based Learning",
+      "Inquiry-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "assessment": [
+      "Short Answer",
+      "Concept Map",
+      "Problem-Solving Task",
+      "Case Analysis",
+      "Project",
+      "Presentation",
+      "Reflective Journal",
+      "Performance Task"
+    ],
+    "evidence": [
+      "Student responses",
+      "Discussion notes",
+      "Drafts or working notes",
+      "Final product or performance",
+      "Peer/self-assessment",
+      "Reflection",
+      "Presentation recording"
+    ],
+    "questions": [
+      "What do you want students to be able to do, not just remember?",
+      "Where do students struggle most — understanding, application, reasoning, or communication?"
+    ]
+  },
+  {
+    "name": "Mathematics",
+    "slug": "mathematics",
+    "contexts": [
+      "Lectures and classroom sessions in Mathematics",
+      "Practical, discussion or application activities in Mathematics",
+      "Assignments, projects or course-based tasks in Mathematics"
+    ],
+    "challenges": [
+      "Students may rely heavily on notes or recall.",
+      "Students may have limited opportunities to apply ideas in authentic situations.",
+      "Assessment may not always make higher-order thinking visible."
+    ],
+    "pedagogies": [
+      "Project-Based Learning",
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Inquiry-Based Learning",
+      "Experiential Learning",
+      "Flipped Classroom",
+      "Collaborative Learning",
+      "Discussion-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "lots": [
+      "Flipped Classroom",
+      "Think-Pair-Share"
+    ],
+    "mots": [
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Experiential Learning",
+      "Collaborative Learning"
+    ],
+    "hots": [
+      "Project-Based Learning",
+      "Inquiry-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "assessment": [
+      "Short Answer",
+      "Concept Map",
+      "Problem-Solving Task",
+      "Case Analysis",
+      "Project",
+      "Presentation",
+      "Reflective Journal",
+      "Performance Task"
+    ],
+    "evidence": [
+      "Student responses",
+      "Discussion notes",
+      "Drafts or working notes",
+      "Final product or performance",
+      "Peer/self-assessment",
+      "Reflection",
+      "Presentation recording"
+    ],
+    "questions": [
+      "What do you want students to be able to do, not just remember?",
+      "Where do students struggle most — understanding, application, reasoning, or communication?"
+    ]
+  },
+  {
+    "name": "English",
+    "slug": "english",
+    "contexts": [
+      "Lectures and classroom sessions in English",
+      "Practical, discussion or application activities in English",
+      "Assignments, projects or course-based tasks in English"
+    ],
+    "challenges": [
+      "Students may rely heavily on notes or recall.",
+      "Students may have limited opportunities to apply ideas in authentic situations.",
+      "Assessment may not always make higher-order thinking visible."
+    ],
+    "pedagogies": [
+      "Project-Based Learning",
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Inquiry-Based Learning",
+      "Experiential Learning",
+      "Flipped Classroom",
+      "Collaborative Learning",
+      "Discussion-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "lots": [
+      "Flipped Classroom",
+      "Think-Pair-Share"
+    ],
+    "mots": [
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Experiential Learning",
+      "Collaborative Learning"
+    ],
+    "hots": [
+      "Project-Based Learning",
+      "Inquiry-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "assessment": [
+      "Short Answer",
+      "Concept Map",
+      "Problem-Solving Task",
+      "Case Analysis",
+      "Project",
+      "Presentation",
+      "Reflective Journal",
+      "Performance Task"
+    ],
+    "evidence": [
+      "Student responses",
+      "Discussion notes",
+      "Drafts or working notes",
+      "Final product or performance",
+      "Peer/self-assessment",
+      "Reflection",
+      "Presentation recording"
+    ],
+    "questions": [
+      "What do you want students to be able to do, not just remember?",
+      "Where do students struggle most — understanding, application, reasoning, or communication?"
+    ]
+  },
+  {
+    "name": "Commerce",
+    "slug": "commerce",
+    "contexts": [
+      "Lectures and classroom sessions in Commerce",
+      "Practical, discussion or application activities in Commerce",
+      "Assignments, projects or course-based tasks in Commerce"
+    ],
+    "challenges": [
+      "Students may rely heavily on notes or recall.",
+      "Students may have limited opportunities to apply ideas in authentic situations.",
+      "Assessment may not always make higher-order thinking visible."
+    ],
+    "pedagogies": [
+      "Project-Based Learning",
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Inquiry-Based Learning",
+      "Experiential Learning",
+      "Flipped Classroom",
+      "Collaborative Learning",
+      "Discussion-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "lots": [
+      "Flipped Classroom",
+      "Think-Pair-Share"
+    ],
+    "mots": [
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Experiential Learning",
+      "Collaborative Learning"
+    ],
+    "hots": [
+      "Project-Based Learning",
+      "Inquiry-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "assessment": [
+      "Short Answer",
+      "Concept Map",
+      "Problem-Solving Task",
+      "Case Analysis",
+      "Project",
+      "Presentation",
+      "Reflective Journal",
+      "Performance Task"
+    ],
+    "evidence": [
+      "Student responses",
+      "Discussion notes",
+      "Drafts or working notes",
+      "Final product or performance",
+      "Peer/self-assessment",
+      "Reflection",
+      "Presentation recording"
+    ],
+    "questions": [
+      "What do you want students to be able to do, not just remember?",
+      "Where do students struggle most — understanding, application, reasoning, or communication?"
+    ]
+  },
+  {
+    "name": "Economics",
+    "slug": "economics",
+    "contexts": [
+      "Lectures and classroom sessions in Economics",
+      "Practical, discussion or application activities in Economics",
+      "Assignments, projects or course-based tasks in Economics"
+    ],
+    "challenges": [
+      "Students may rely heavily on notes or recall.",
+      "Students may have limited opportunities to apply ideas in authentic situations.",
+      "Assessment may not always make higher-order thinking visible."
+    ],
+    "pedagogies": [
+      "Project-Based Learning",
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Inquiry-Based Learning",
+      "Experiential Learning",
+      "Flipped Classroom",
+      "Collaborative Learning",
+      "Discussion-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "lots": [
+      "Flipped Classroom",
+      "Think-Pair-Share"
+    ],
+    "mots": [
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Experiential Learning",
+      "Collaborative Learning"
+    ],
+    "hots": [
+      "Project-Based Learning",
+      "Inquiry-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "assessment": [
+      "Short Answer",
+      "Concept Map",
+      "Problem-Solving Task",
+      "Case Analysis",
+      "Project",
+      "Presentation",
+      "Reflective Journal",
+      "Performance Task"
+    ],
+    "evidence": [
+      "Student responses",
+      "Discussion notes",
+      "Drafts or working notes",
+      "Final product or performance",
+      "Peer/self-assessment",
+      "Reflection",
+      "Presentation recording"
+    ],
+    "questions": [
+      "What do you want students to be able to do, not just remember?",
+      "Where do students struggle most — understanding, application, reasoning, or communication?"
+    ]
+  },
+  {
+    "name": "Management",
+    "slug": "management",
+    "contexts": [
+      "Lectures and classroom sessions in Management",
+      "Practical, discussion or application activities in Management",
+      "Assignments, projects or course-based tasks in Management"
+    ],
+    "challenges": [
+      "Students may rely heavily on notes or recall.",
+      "Students may have limited opportunities to apply ideas in authentic situations.",
+      "Assessment may not always make higher-order thinking visible."
+    ],
+    "pedagogies": [
+      "Project-Based Learning",
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Inquiry-Based Learning",
+      "Experiential Learning",
+      "Flipped Classroom",
+      "Collaborative Learning",
+      "Discussion-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "lots": [
+      "Flipped Classroom",
+      "Think-Pair-Share"
+    ],
+    "mots": [
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Experiential Learning",
+      "Collaborative Learning"
+    ],
+    "hots": [
+      "Project-Based Learning",
+      "Inquiry-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "assessment": [
+      "Short Answer",
+      "Concept Map",
+      "Problem-Solving Task",
+      "Case Analysis",
+      "Project",
+      "Presentation",
+      "Reflective Journal",
+      "Performance Task"
+    ],
+    "evidence": [
+      "Student responses",
+      "Discussion notes",
+      "Drafts or working notes",
+      "Final product or performance",
+      "Peer/self-assessment",
+      "Reflection",
+      "Presentation recording"
+    ],
+    "questions": [
+      "What do you want students to be able to do, not just remember?",
+      "Where do students struggle most — understanding, application, reasoning, or communication?"
+    ]
+  },
+  {
+    "name": "History",
+    "slug": "history",
+    "contexts": [
+      "Lectures and classroom sessions in History",
+      "Practical, discussion or application activities in History",
+      "Assignments, projects or course-based tasks in History"
+    ],
+    "challenges": [
+      "Students may rely heavily on notes or recall.",
+      "Students may have limited opportunities to apply ideas in authentic situations.",
+      "Assessment may not always make higher-order thinking visible."
+    ],
+    "pedagogies": [
+      "Project-Based Learning",
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Inquiry-Based Learning",
+      "Experiential Learning",
+      "Flipped Classroom",
+      "Collaborative Learning",
+      "Discussion-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "lots": [
+      "Flipped Classroom",
+      "Think-Pair-Share"
+    ],
+    "mots": [
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Experiential Learning",
+      "Collaborative Learning"
+    ],
+    "hots": [
+      "Project-Based Learning",
+      "Inquiry-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "assessment": [
+      "Short Answer",
+      "Concept Map",
+      "Problem-Solving Task",
+      "Case Analysis",
+      "Project",
+      "Presentation",
+      "Reflective Journal",
+      "Performance Task"
+    ],
+    "evidence": [
+      "Student responses",
+      "Discussion notes",
+      "Drafts or working notes",
+      "Final product or performance",
+      "Peer/self-assessment",
+      "Reflection",
+      "Presentation recording"
+    ],
+    "questions": [
+      "What do you want students to be able to do, not just remember?",
+      "Where do students struggle most — understanding, application, reasoning, or communication?"
+    ]
+  },
+  {
+    "name": "Sociology",
+    "slug": "sociology",
+    "contexts": [
+      "Lectures and classroom sessions in Sociology",
+      "Practical, discussion or application activities in Sociology",
+      "Assignments, projects or course-based tasks in Sociology"
+    ],
+    "challenges": [
+      "Students may rely heavily on notes or recall.",
+      "Students may have limited opportunities to apply ideas in authentic situations.",
+      "Assessment may not always make higher-order thinking visible."
+    ],
+    "pedagogies": [
+      "Project-Based Learning",
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Inquiry-Based Learning",
+      "Experiential Learning",
+      "Flipped Classroom",
+      "Collaborative Learning",
+      "Discussion-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "lots": [
+      "Flipped Classroom",
+      "Think-Pair-Share"
+    ],
+    "mots": [
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Experiential Learning",
+      "Collaborative Learning"
+    ],
+    "hots": [
+      "Project-Based Learning",
+      "Inquiry-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "assessment": [
+      "Short Answer",
+      "Concept Map",
+      "Problem-Solving Task",
+      "Case Analysis",
+      "Project",
+      "Presentation",
+      "Reflective Journal",
+      "Performance Task"
+    ],
+    "evidence": [
+      "Student responses",
+      "Discussion notes",
+      "Drafts or working notes",
+      "Final product or performance",
+      "Peer/self-assessment",
+      "Reflection",
+      "Presentation recording"
+    ],
+    "questions": [
+      "What do you want students to be able to do, not just remember?",
+      "Where do students struggle most — understanding, application, reasoning, or communication?"
+    ]
+  },
+  {
+    "name": "Social Work",
+    "slug": "social-work",
+    "contexts": [
+      "Lectures and classroom sessions in Social Work",
+      "Practical, discussion or application activities in Social Work",
+      "Assignments, projects or course-based tasks in Social Work"
+    ],
+    "challenges": [
+      "Students may rely heavily on notes or recall.",
+      "Students may have limited opportunities to apply ideas in authentic situations.",
+      "Assessment may not always make higher-order thinking visible."
+    ],
+    "pedagogies": [
+      "Project-Based Learning",
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Inquiry-Based Learning",
+      "Experiential Learning",
+      "Flipped Classroom",
+      "Collaborative Learning",
+      "Discussion-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "lots": [
+      "Flipped Classroom",
+      "Think-Pair-Share"
+    ],
+    "mots": [
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Experiential Learning",
+      "Collaborative Learning"
+    ],
+    "hots": [
+      "Project-Based Learning",
+      "Inquiry-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "assessment": [
+      "Short Answer",
+      "Concept Map",
+      "Problem-Solving Task",
+      "Case Analysis",
+      "Project",
+      "Presentation",
+      "Reflective Journal",
+      "Performance Task"
+    ],
+    "evidence": [
+      "Student responses",
+      "Discussion notes",
+      "Drafts or working notes",
+      "Final product or performance",
+      "Peer/self-assessment",
+      "Reflection",
+      "Presentation recording"
+    ],
+    "questions": [
+      "What do you want students to be able to do, not just remember?",
+      "Where do students struggle most — understanding, application, reasoning, or communication?"
+    ]
+  },
+  {
+    "name": "Education",
+    "slug": "education",
+    "contexts": [
+      "Lectures and classroom sessions in Education",
+      "Practical, discussion or application activities in Education",
+      "Assignments, projects or course-based tasks in Education"
+    ],
+    "challenges": [
+      "Students may rely heavily on notes or recall.",
+      "Students may have limited opportunities to apply ideas in authentic situations.",
+      "Assessment may not always make higher-order thinking visible."
+    ],
+    "pedagogies": [
+      "Project-Based Learning",
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Inquiry-Based Learning",
+      "Experiential Learning",
+      "Flipped Classroom",
+      "Collaborative Learning",
+      "Discussion-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "lots": [
+      "Flipped Classroom",
+      "Think-Pair-Share"
+    ],
+    "mots": [
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Experiential Learning",
+      "Collaborative Learning"
+    ],
+    "hots": [
+      "Project-Based Learning",
+      "Inquiry-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "assessment": [
+      "Short Answer",
+      "Concept Map",
+      "Problem-Solving Task",
+      "Case Analysis",
+      "Project",
+      "Presentation",
+      "Reflective Journal",
+      "Performance Task"
+    ],
+    "evidence": [
+      "Student responses",
+      "Discussion notes",
+      "Drafts or working notes",
+      "Final product or performance",
+      "Peer/self-assessment",
+      "Reflection",
+      "Presentation recording"
+    ],
+    "questions": [
+      "What do you want students to be able to do, not just remember?",
+      "Where do students struggle most — understanding, application, reasoning, or communication?"
+    ]
+  },
+  {
+    "name": "Biotechnology",
+    "slug": "biotechnology",
+    "contexts": [
+      "Lectures and classroom sessions in Biotechnology",
+      "Practical, discussion or application activities in Biotechnology",
+      "Assignments, projects or course-based tasks in Biotechnology"
+    ],
+    "challenges": [
+      "Students may rely heavily on notes or recall.",
+      "Students may have limited opportunities to apply ideas in authentic situations.",
+      "Assessment may not always make higher-order thinking visible."
+    ],
+    "pedagogies": [
+      "Project-Based Learning",
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Inquiry-Based Learning",
+      "Experiential Learning",
+      "Flipped Classroom",
+      "Collaborative Learning",
+      "Discussion-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "lots": [
+      "Flipped Classroom",
+      "Think-Pair-Share"
+    ],
+    "mots": [
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Experiential Learning",
+      "Collaborative Learning"
+    ],
+    "hots": [
+      "Project-Based Learning",
+      "Inquiry-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "assessment": [
+      "Short Answer",
+      "Concept Map",
+      "Problem-Solving Task",
+      "Case Analysis",
+      "Project",
+      "Presentation",
+      "Reflective Journal",
+      "Performance Task"
+    ],
+    "evidence": [
+      "Student responses",
+      "Discussion notes",
+      "Drafts or working notes",
+      "Final product or performance",
+      "Peer/self-assessment",
+      "Reflection",
+      "Presentation recording"
+    ],
+    "questions": [
+      "What do you want students to be able to do, not just remember?",
+      "Where do students struggle most — understanding, application, reasoning, or communication?"
+    ]
+  },
+  {
+    "name": "Microbiology",
+    "slug": "microbiology",
+    "contexts": [
+      "Lectures and classroom sessions in Microbiology",
+      "Practical, discussion or application activities in Microbiology",
+      "Assignments, projects or course-based tasks in Microbiology"
+    ],
+    "challenges": [
+      "Students may rely heavily on notes or recall.",
+      "Students may have limited opportunities to apply ideas in authentic situations.",
+      "Assessment may not always make higher-order thinking visible."
+    ],
+    "pedagogies": [
+      "Project-Based Learning",
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Inquiry-Based Learning",
+      "Experiential Learning",
+      "Flipped Classroom",
+      "Collaborative Learning",
+      "Discussion-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "lots": [
+      "Flipped Classroom",
+      "Think-Pair-Share"
+    ],
+    "mots": [
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Experiential Learning",
+      "Collaborative Learning"
+    ],
+    "hots": [
+      "Project-Based Learning",
+      "Inquiry-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "assessment": [
+      "Short Answer",
+      "Concept Map",
+      "Problem-Solving Task",
+      "Case Analysis",
+      "Project",
+      "Presentation",
+      "Reflective Journal",
+      "Performance Task"
+    ],
+    "evidence": [
+      "Student responses",
+      "Discussion notes",
+      "Drafts or working notes",
+      "Final product or performance",
+      "Peer/self-assessment",
+      "Reflection",
+      "Presentation recording"
+    ],
+    "questions": [
+      "What do you want students to be able to do, not just remember?",
+      "Where do students struggle most — understanding, application, reasoning, or communication?"
+    ]
+  },
+  {
+    "name": "Visual Communication",
+    "slug": "visual-communication",
+    "contexts": [
+      "Lectures and classroom sessions in Visual Communication",
+      "Practical, discussion or application activities in Visual Communication",
+      "Assignments, projects or course-based tasks in Visual Communication"
+    ],
+    "challenges": [
+      "Students may rely heavily on notes or recall.",
+      "Students may have limited opportunities to apply ideas in authentic situations.",
+      "Assessment may not always make higher-order thinking visible."
+    ],
+    "pedagogies": [
+      "Project-Based Learning",
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Inquiry-Based Learning",
+      "Experiential Learning",
+      "Flipped Classroom",
+      "Collaborative Learning",
+      "Discussion-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "lots": [
+      "Flipped Classroom",
+      "Think-Pair-Share"
+    ],
+    "mots": [
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Experiential Learning",
+      "Collaborative Learning"
+    ],
+    "hots": [
+      "Project-Based Learning",
+      "Inquiry-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "assessment": [
+      "Short Answer",
+      "Concept Map",
+      "Problem-Solving Task",
+      "Case Analysis",
+      "Project",
+      "Presentation",
+      "Reflective Journal",
+      "Performance Task"
+    ],
+    "evidence": [
+      "Student responses",
+      "Discussion notes",
+      "Drafts or working notes",
+      "Final product or performance",
+      "Peer/self-assessment",
+      "Reflection",
+      "Presentation recording"
+    ],
+    "questions": [
+      "What do you want students to be able to do, not just remember?",
+      "Where do students struggle most — understanding, application, reasoning, or communication?"
+    ]
+  },
+  {
+    "name": "Journalism",
+    "slug": "journalism",
+    "contexts": [
+      "Lectures and classroom sessions in Journalism",
+      "Practical, discussion or application activities in Journalism",
+      "Assignments, projects or course-based tasks in Journalism"
+    ],
+    "challenges": [
+      "Students may rely heavily on notes or recall.",
+      "Students may have limited opportunities to apply ideas in authentic situations.",
+      "Assessment may not always make higher-order thinking visible."
+    ],
+    "pedagogies": [
+      "Project-Based Learning",
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Inquiry-Based Learning",
+      "Experiential Learning",
+      "Flipped Classroom",
+      "Collaborative Learning",
+      "Discussion-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "lots": [
+      "Flipped Classroom",
+      "Think-Pair-Share"
+    ],
+    "mots": [
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Experiential Learning",
+      "Collaborative Learning"
+    ],
+    "hots": [
+      "Project-Based Learning",
+      "Inquiry-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "assessment": [
+      "Short Answer",
+      "Concept Map",
+      "Problem-Solving Task",
+      "Case Analysis",
+      "Project",
+      "Presentation",
+      "Reflective Journal",
+      "Performance Task"
+    ],
+    "evidence": [
+      "Student responses",
+      "Discussion notes",
+      "Drafts or working notes",
+      "Final product or performance",
+      "Peer/self-assessment",
+      "Reflection",
+      "Presentation recording"
+    ],
+    "questions": [
+      "What do you want students to be able to do, not just remember?",
+      "Where do students struggle most — understanding, application, reasoning, or communication?"
+    ]
+  },
+  {
+    "name": "Languages",
+    "slug": "languages",
+    "contexts": [
+      "Lectures and classroom sessions in Languages",
+      "Practical, discussion or application activities in Languages",
+      "Assignments, projects or course-based tasks in Languages"
+    ],
+    "challenges": [
+      "Students may rely heavily on notes or recall.",
+      "Students may have limited opportunities to apply ideas in authentic situations.",
+      "Assessment may not always make higher-order thinking visible."
+    ],
+    "pedagogies": [
+      "Project-Based Learning",
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Inquiry-Based Learning",
+      "Experiential Learning",
+      "Flipped Classroom",
+      "Collaborative Learning",
+      "Discussion-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "lots": [
+      "Flipped Classroom",
+      "Think-Pair-Share"
+    ],
+    "mots": [
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Experiential Learning",
+      "Collaborative Learning"
+    ],
+    "hots": [
+      "Project-Based Learning",
+      "Inquiry-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "assessment": [
+      "Short Answer",
+      "Concept Map",
+      "Problem-Solving Task",
+      "Case Analysis",
+      "Project",
+      "Presentation",
+      "Reflective Journal",
+      "Performance Task"
+    ],
+    "evidence": [
+      "Student responses",
+      "Discussion notes",
+      "Drafts or working notes",
+      "Final product or performance",
+      "Peer/self-assessment",
+      "Reflection",
+      "Presentation recording"
+    ],
+    "questions": [
+      "What do you want students to be able to do, not just remember?",
+      "Where do students struggle most — understanding, application, reasoning, or communication?"
+    ]
+  },
+  {
+    "name": "Other / Not listed",
+    "slug": "other---not-listed",
+    "contexts": [
+      "Lectures and classroom sessions in Other / Not listed",
+      "Practical, discussion or application activities in Other / Not listed",
+      "Assignments, projects or course-based tasks in Other / Not listed"
+    ],
+    "challenges": [
+      "Students may rely heavily on notes or recall.",
+      "Students may have limited opportunities to apply ideas in authentic situations.",
+      "Assessment may not always make higher-order thinking visible."
+    ],
+    "pedagogies": [
+      "Project-Based Learning",
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Inquiry-Based Learning",
+      "Experiential Learning",
+      "Flipped Classroom",
+      "Collaborative Learning",
+      "Discussion-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "lots": [
+      "Flipped Classroom",
+      "Think-Pair-Share"
+    ],
+    "mots": [
+      "Problem-Based Learning",
+      "Case-Based Learning",
+      "Experiential Learning",
+      "Collaborative Learning"
+    ],
+    "hots": [
+      "Project-Based Learning",
+      "Inquiry-Based Learning",
+      "Scenario-Based Learning",
+      "Reflective Learning"
+    ],
+    "assessment": [
+      "Short Answer",
+      "Concept Map",
+      "Problem-Solving Task",
+      "Case Analysis",
+      "Project",
+      "Presentation",
+      "Reflective Journal",
+      "Performance Task"
+    ],
+    "evidence": [
+      "Student responses",
+      "Discussion notes",
+      "Drafts or working notes",
+      "Final product or performance",
+      "Peer/self-assessment",
+      "Reflection",
+      "Presentation recording"
+    ],
+    "questions": [
+      "What do you want students to be able to do, not just remember?",
+      "Where do students struggle most — understanding, application, reasoning, or communication?"
+    ]
+  }
+]

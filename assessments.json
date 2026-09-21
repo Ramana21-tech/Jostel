@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Quiz",
+    "description": "Use quiz when it matches the capability students are expected to demonstrate.",
+    "teacher": "Clarify the learning outcome, criteria and evidence required.",
+    "students": "Demonstrate learning through the selected assessment format.",
+    "evidence": "Capture responses, reasoning, products, performances or reflections appropriate to the method.",
+    "redesign": "Ask whether this assessment measures the intended learning or mainly recall."
+  },
+  {
+    "name": "Short Answer",
+    "description": "Use short answer when it matches the capability students are expected to demonstrate.",
+    "teacher": "Clarify the learning outcome, criteria and evidence required.",
+    "students": "Demonstrate learning through the selected assessment format.",
+    "evidence": "Capture responses, reasoning, products, performances or reflections appropriate to the method.",
+    "redesign": "Ask whether this assessment measures the intended learning or mainly recall."
+  },
+  {
+    "name": "Concept Map",
+    "description": "Use concept map when it matches the capability students are expected to demonstrate.",
+    "teacher": "Clarify the learning outcome, criteria and evidence required.",
+    "students": "Demonstrate learning through the selected assessment format.",
+    "evidence": "Capture responses, reasoning, products, performances or reflections appropriate to the method.",
+    "redesign": "Ask whether this assessment measures the intended learning or mainly recall."
+  },
+  {
+    "name": "Problem-Solving Task",
+    "description": "Use problem-solving task when it matches the capability students are expected to demonstrate.",
+    "teacher": "Clarify the learning outcome, criteria and evidence required.",
+    "students": "Demonstrate learning through the selected assessment format.",
+    "evidence": "Capture responses, reasoning, products, performances or reflections appropriate to the method.",
+    "redesign": "Ask whether this assessment measures the intended learning or mainly recall."
+  },
+  {
+    "name": "Case Analysis",
+    "description": "Use case analysis when it matches the capability students are expected to demonstrate.",
+    "teacher": "Clarify the learning outcome, criteria and evidence required.",
+    "students": "Demonstrate learning through the selected assessment format.",
+    "evidence": "Capture responses, reasoning, products, performances or reflections appropriate to the method.",
+    "redesign": "Ask whether this assessment measures the intended learning or mainly recall."
+  },
+  {
+    "name": "Project",
+    "description": "Use project when it matches the capability students are expected to demonstrate.",
+    "teacher": "Clarify the learning outcome, criteria and evidence required.",
+    "students": "Demonstrate learning through the selected assessment format.",
+    "evidence": "Capture responses, reasoning, products, performances or reflections appropriate to the method.",
+    "redesign": "Ask whether this assessment measures the intended learning or mainly recall."
+  },
+  {
+    "name": "Presentation",
+    "description": "Use presentation when it matches the capability students are expected to demonstrate.",
+    "teacher": "Clarify the learning outcome, criteria and evidence required.",
+    "students": "Demonstrate learning through the selected assessment format.",
+    "evidence": "Capture responses, reasoning, products, performances or reflections appropriate to the method.",
+    "redesign": "Ask whether this assessment measures the intended learning or mainly recall."
+  },
+  {
+    "name": "Viva",
+    "description": "Use viva when it matches the capability students are expected to demonstrate.",
+    "teacher": "Clarify the learning outcome, criteria and evidence required.",
+    "students": "Demonstrate learning through the selected assessment format.",
+    "evidence": "Capture responses, reasoning, products, performances or reflections appropriate to the method.",
+    "redesign": "Ask whether this assessment measures the intended learning or mainly recall."
+  },
+  {
+    "name": "Practical Demonstration",
+    "description": "Use practical demonstration when it matches the capability students are expected to demonstrate.",
+    "teacher": "Clarify the learning outcome, criteria and evidence required.",
+    "students": "Demonstrate learning through the selected assessment format.",
+    "evidence": "Capture responses, reasoning, products, performances or reflections appropriate to the method.",
+    "redesign": "Ask whether this assessment measures the intended learning or mainly recall."
+  },
+  {
+    "name": "Portfolio",
+    "description": "Use portfolio when it matches the capability students are expected to demonstrate.",
+    "teacher": "Clarify the learning outcome, criteria and evidence required.",
+    "students": "Demonstrate learning through the selected assessment format.",
+    "evidence": "Capture responses, reasoning, products, performances or reflections appropriate to the method.",
+    "redesign": "Ask whether this assessment measures the intended learning or mainly recall."
+  },
+  {
+    "name": "Reflective Journal",
+    "description": "Use reflective journal when it matches the capability students are expected to demonstrate.",
+    "teacher": "Clarify the learning outcome, criteria and evidence required.",
+    "students": "Demonstrate learning through the selected assessment format.",
+    "evidence": "Capture responses, reasoning, products, performances or reflections appropriate to the method.",
+    "redesign": "Ask whether this assessment measures the intended learning or mainly recall."
+  },
+  {
+    "name": "Peer Assessment",
+    "description": "Use peer assessment when it matches the capability students are expected to demonstrate.",
+    "teacher": "Clarify the learning outcome, criteria and evidence required.",
+    "students": "Demonstrate learning through the selected assessment format.",
+    "evidence": "Capture responses, reasoning, products, performances or reflections appropriate to the method.",
+    "redesign": "Ask whether this assessment measures the intended learning or mainly recall."
+  },
+  {
+    "name": "Self Assessment",
+    "description": "Use self assessment when it matches the capability students are expected to demonstrate.",
+    "teacher": "Clarify the learning outcome, criteria and evidence required.",
+    "students": "Demonstrate learning through the selected assessment format.",
+    "evidence": "Capture responses, reasoning, products, performances or reflections appropriate to the method.",
+    "redesign": "Ask whether this assessment measures the intended learning or mainly recall."
+  },
+  {
+    "name": "Debate",
+    "description": "Use debate when it matches the capability students are expected to demonstrate.",
+    "teacher": "Clarify the learning outcome, criteria and evidence required.",
+    "students": "Demonstrate learning through the selected assessment format.",
+    "evidence": "Capture responses, reasoning, products, performances or reflections appropriate to the method.",
+    "redesign": "Ask whether this assessment measures the intended learning or mainly recall."
+  },
+  {
+    "name": "Simulation",
+    "description": "Use simulation when it matches the capability students are expected to demonstrate.",
+    "teacher": "Clarify the learning outcome, criteria and evidence required.",
+    "students": "Demonstrate learning through the selected assessment format.",
+    "evidence": "Capture responses, reasoning, products, performances or reflections appropriate to the method.",
+    "redesign": "Ask whether this assessment measures the intended learning or mainly recall."
+  },
+  {
+    "name": "Performance Task",
+    "description": "Use performance task when it matches the capability students are expected to demonstrate.",
+    "teacher": "Clarify the learning outcome, criteria and evidence required.",
+    "students": "Demonstrate learning through the selected assessment format.",
+    "evidence": "Capture responses, reasoning, products, performances or reflections appropriate to the method.",
+    "redesign": "Ask whether this assessment measures the intended learning or mainly recall."
+  },
+  {
+    "name": "Rubric-Based Assessment",
+    "description": "Use rubric-based assessment when it matches the capability students are expected to demonstrate.",
+    "teacher": "Clarify the learning outcome, criteria and evidence required.",
+    "students": "Demonstrate learning through the selected assessment format.",
+    "evidence": "Capture responses, reasoning, products, performances or reflections appropriate to the method.",
+    "redesign": "Ask whether this assessment measures the intended learning or mainly recall."
+  },
+  {
+    "name": "Exit Ticket",
+    "description": "Use exit ticket when it matches the capability students are expected to demonstrate.",
+    "teacher": "Clarify the learning outcome, criteria and evidence required.",
+    "students": "Demonstrate learning through the selected assessment format.",
+    "evidence": "Capture responses, reasoning, products, performances or reflections appropriate to the method.",
+    "redesign": "Ask whether this assessment measures the intended learning or mainly recall."
+  },
+  {
+    "name": "Annotated Bibliography / Source Analysis",
+    "description": "Use annotated bibliography / source analysis when it matches the capability students are expected to demonstrate.",
+    "teacher": "Clarify the learning outcome, criteria and evidence required.",
+    "students": "Demonstrate learning through the selected assessment format.",
+    "evidence": "Capture responses, reasoning, products, performances or reflections appropriate to the method.",
+    "redesign": "Ask whether this assessment measures the intended learning or mainly recall."
+  },
+  {
+    "name": "Concept Application Interview",
+    "description": "Use concept application interview when it matches the capability students are expected to demonstrate.",
+    "teacher": "Clarify the learning outcome, criteria and evidence required.",
+    "students": "Demonstrate learning through the selected assessment format.",
+    "evidence": "Capture responses, reasoning, products, performances or reflections appropriate to the method.",
+    "redesign": "Ask whether this assessment measures the intended learning or mainly recall."
+  }
+]

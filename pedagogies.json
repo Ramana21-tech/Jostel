@@ -1,0 +1,556 @@
+[
+  {
+    "name": "Project-Based Learning",
+    "slug": "project-based-learning",
+    "description": "Students learn by working over time on a meaningful project that results in a product, performance, or solution.",
+    "levels": [
+      "MOTS",
+      "HOTS"
+    ],
+    "tags": [
+      "active learning",
+      "student thinking"
+    ],
+    "duration": "Multiple sessions",
+    "groupSize": "Individual / pairs / groups",
+    "preparation": "Low–Moderate",
+    "consider": "the intended learning benefits from active participation, application, reasoning or reflection.",
+    "steps": [
+      "Clarify the learning outcome and success criteria.",
+      "Introduce the task, context, question, case, challenge or experience.",
+      "Give students time to work, discuss, investigate, practise or create.",
+      "Facilitate with questions and feedback.",
+      "Close with sharing, reflection or a short assessment."
+    ],
+    "teacher": "Frame the purpose, explain expectations, facilitate and capture evidence.",
+    "students": "Engage with the task, explain their thinking and produce a response, performance or product.",
+    "looks": "Look for participation, reasoning, application, misconceptions, decisions, revisions and evidence of intended learning.",
+    "evidence": "Student responses, products, discussions, observations, drafts, presentations or reflections."
+  },
+  {
+    "name": "Problem-Based Learning",
+    "slug": "problem-based-learning",
+    "description": "Students learn through investigating and responding to an authentic or complex problem.",
+    "levels": [
+      "MOTS",
+      "HOTS"
+    ],
+    "tags": [
+      "active learning",
+      "student thinking"
+    ],
+    "duration": "30–60 min",
+    "groupSize": "Individual / pairs / groups",
+    "preparation": "Low–Moderate",
+    "consider": "the intended learning benefits from active participation, application, reasoning or reflection.",
+    "steps": [
+      "Clarify the learning outcome and success criteria.",
+      "Introduce the task, context, question, case, challenge or experience.",
+      "Give students time to work, discuss, investigate, practise or create.",
+      "Facilitate with questions and feedback.",
+      "Close with sharing, reflection or a short assessment."
+    ],
+    "teacher": "Frame the purpose, explain expectations, facilitate and capture evidence.",
+    "students": "Engage with the task, explain their thinking and produce a response, performance or product.",
+    "looks": "Look for participation, reasoning, application, misconceptions, decisions, revisions and evidence of intended learning.",
+    "evidence": "Student responses, products, discussions, observations, drafts, presentations or reflections."
+  },
+  {
+    "name": "Case-Based Learning",
+    "slug": "case-based-learning",
+    "description": "Students use cases to analyse situations, identify issues, and develop reasoned responses.",
+    "levels": [
+      "MOTS",
+      "HOTS"
+    ],
+    "tags": [
+      "active learning",
+      "student thinking"
+    ],
+    "duration": "30–60 min",
+    "groupSize": "Individual / pairs / groups",
+    "preparation": "Low–Moderate",
+    "consider": "the intended learning benefits from active participation, application, reasoning or reflection.",
+    "steps": [
+      "Clarify the learning outcome and success criteria.",
+      "Introduce the task, context, question, case, challenge or experience.",
+      "Give students time to work, discuss, investigate, practise or create.",
+      "Facilitate with questions and feedback.",
+      "Close with sharing, reflection or a short assessment."
+    ],
+    "teacher": "Frame the purpose, explain expectations, facilitate and capture evidence.",
+    "students": "Engage with the task, explain their thinking and produce a response, performance or product.",
+    "looks": "Look for participation, reasoning, application, misconceptions, decisions, revisions and evidence of intended learning.",
+    "evidence": "Student responses, products, discussions, observations, drafts, presentations or reflections."
+  },
+  {
+    "name": "Inquiry-Based Learning",
+    "slug": "inquiry-based-learning",
+    "description": "Students investigate questions, gather information, and construct understanding through inquiry.",
+    "levels": [
+      "MOTS",
+      "HOTS"
+    ],
+    "tags": [
+      "active learning",
+      "student thinking"
+    ],
+    "duration": "30–60 min",
+    "groupSize": "Individual / pairs / groups",
+    "preparation": "Low–Moderate",
+    "consider": "the intended learning benefits from active participation, application, reasoning or reflection.",
+    "steps": [
+      "Clarify the learning outcome and success criteria.",
+      "Introduce the task, context, question, case, challenge or experience.",
+      "Give students time to work, discuss, investigate, practise or create.",
+      "Facilitate with questions and feedback.",
+      "Close with sharing, reflection or a short assessment."
+    ],
+    "teacher": "Frame the purpose, explain expectations, facilitate and capture evidence.",
+    "students": "Engage with the task, explain their thinking and produce a response, performance or product.",
+    "looks": "Look for participation, reasoning, application, misconceptions, decisions, revisions and evidence of intended learning.",
+    "evidence": "Student responses, products, discussions, observations, drafts, presentations or reflections."
+  },
+  {
+    "name": "Experiential Learning",
+    "slug": "experiential-learning",
+    "description": "Students learn through experience followed by reflection and application.",
+    "levels": [
+      "MOTS",
+      "HOTS"
+    ],
+    "tags": [
+      "active learning",
+      "student thinking"
+    ],
+    "duration": "30–60 min",
+    "groupSize": "Individual / pairs / groups",
+    "preparation": "Low–Moderate",
+    "consider": "the intended learning benefits from active participation, application, reasoning or reflection.",
+    "steps": [
+      "Clarify the learning outcome and success criteria.",
+      "Introduce the task, context, question, case, challenge or experience.",
+      "Give students time to work, discuss, investigate, practise or create.",
+      "Facilitate with questions and feedback.",
+      "Close with sharing, reflection or a short assessment."
+    ],
+    "teacher": "Frame the purpose, explain expectations, facilitate and capture evidence.",
+    "students": "Engage with the task, explain their thinking and produce a response, performance or product.",
+    "looks": "Look for participation, reasoning, application, misconceptions, decisions, revisions and evidence of intended learning.",
+    "evidence": "Student responses, products, discussions, observations, drafts, presentations or reflections."
+  },
+  {
+    "name": "Flipped Classroom",
+    "slug": "flipped-classroom",
+    "description": "Content exposure happens before class so classroom time can focus on application and interaction.",
+    "levels": [
+      "LOTS",
+      "MOTS"
+    ],
+    "tags": [
+      "active learning",
+      "student thinking"
+    ],
+    "duration": "30–60 min",
+    "groupSize": "Individual / pairs / groups",
+    "preparation": "Low–Moderate",
+    "consider": "the intended learning benefits from active participation, application, reasoning or reflection.",
+    "steps": [
+      "Clarify the learning outcome and success criteria.",
+      "Introduce the task, context, question, case, challenge or experience.",
+      "Give students time to work, discuss, investigate, practise or create.",
+      "Facilitate with questions and feedback.",
+      "Close with sharing, reflection or a short assessment."
+    ],
+    "teacher": "Frame the purpose, explain expectations, facilitate and capture evidence.",
+    "students": "Engage with the task, explain their thinking and produce a response, performance or product.",
+    "looks": "Look for participation, reasoning, application, misconceptions, decisions, revisions and evidence of intended learning.",
+    "evidence": "Student responses, products, discussions, observations, drafts, presentations or reflections."
+  },
+  {
+    "name": "Peer Instruction",
+    "slug": "peer-instruction",
+    "description": "Students reason about a question, discuss their thinking with peers, and reconsider their answer.",
+    "levels": [
+      "LOTS",
+      "MOTS"
+    ],
+    "tags": [
+      "active learning",
+      "student thinking"
+    ],
+    "duration": "30–60 min",
+    "groupSize": "Individual / pairs / groups",
+    "preparation": "Low–Moderate",
+    "consider": "the intended learning benefits from active participation, application, reasoning or reflection.",
+    "steps": [
+      "Clarify the learning outcome and success criteria.",
+      "Introduce the task, context, question, case, challenge or experience.",
+      "Give students time to work, discuss, investigate, practise or create.",
+      "Facilitate with questions and feedback.",
+      "Close with sharing, reflection or a short assessment."
+    ],
+    "teacher": "Frame the purpose, explain expectations, facilitate and capture evidence.",
+    "students": "Engage with the task, explain their thinking and produce a response, performance or product.",
+    "looks": "Look for participation, reasoning, application, misconceptions, decisions, revisions and evidence of intended learning.",
+    "evidence": "Student responses, products, discussions, observations, drafts, presentations or reflections."
+  },
+  {
+    "name": "Collaborative Learning",
+    "slug": "collaborative-learning",
+    "description": "Students work together to construct understanding or complete a shared learning task.",
+    "levels": [
+      "MOTS",
+      "HOTS"
+    ],
+    "tags": [
+      "active learning",
+      "student thinking"
+    ],
+    "duration": "30–60 min",
+    "groupSize": "Individual / pairs / groups",
+    "preparation": "Low–Moderate",
+    "consider": "the intended learning benefits from active participation, application, reasoning or reflection.",
+    "steps": [
+      "Clarify the learning outcome and success criteria.",
+      "Introduce the task, context, question, case, challenge or experience.",
+      "Give students time to work, discuss, investigate, practise or create.",
+      "Facilitate with questions and feedback.",
+      "Close with sharing, reflection or a short assessment."
+    ],
+    "teacher": "Frame the purpose, explain expectations, facilitate and capture evidence.",
+    "students": "Engage with the task, explain their thinking and produce a response, performance or product.",
+    "looks": "Look for participation, reasoning, application, misconceptions, decisions, revisions and evidence of intended learning.",
+    "evidence": "Student responses, products, discussions, observations, drafts, presentations or reflections."
+  },
+  {
+    "name": "Cooperative Learning",
+    "slug": "cooperative-learning",
+    "description": "Students work in structured groups with defined roles and shared responsibility.",
+    "levels": [
+      "MOTS"
+    ],
+    "tags": [
+      "active learning",
+      "student thinking"
+    ],
+    "duration": "30–60 min",
+    "groupSize": "Individual / pairs / groups",
+    "preparation": "Low–Moderate",
+    "consider": "the intended learning benefits from active participation, application, reasoning or reflection.",
+    "steps": [
+      "Clarify the learning outcome and success criteria.",
+      "Introduce the task, context, question, case, challenge or experience.",
+      "Give students time to work, discuss, investigate, practise or create.",
+      "Facilitate with questions and feedback.",
+      "Close with sharing, reflection or a short assessment."
+    ],
+    "teacher": "Frame the purpose, explain expectations, facilitate and capture evidence.",
+    "students": "Engage with the task, explain their thinking and produce a response, performance or product.",
+    "looks": "Look for participation, reasoning, application, misconceptions, decisions, revisions and evidence of intended learning.",
+    "evidence": "Student responses, products, discussions, observations, drafts, presentations or reflections."
+  },
+  {
+    "name": "Design Thinking",
+    "slug": "design-thinking",
+    "description": "Students empathise, define, ideate, prototype, and test solutions to meaningful problems.",
+    "levels": [
+      "HOTS"
+    ],
+    "tags": [
+      "active learning",
+      "student thinking"
+    ],
+    "duration": "30–60 min",
+    "groupSize": "Individual / pairs / groups",
+    "preparation": "Low–Moderate",
+    "consider": "the intended learning benefits from active participation, application, reasoning or reflection.",
+    "steps": [
+      "Clarify the learning outcome and success criteria.",
+      "Introduce the task, context, question, case, challenge or experience.",
+      "Give students time to work, discuss, investigate, practise or create.",
+      "Facilitate with questions and feedback.",
+      "Close with sharing, reflection or a short assessment."
+    ],
+    "teacher": "Frame the purpose, explain expectations, facilitate and capture evidence.",
+    "students": "Engage with the task, explain their thinking and produce a response, performance or product.",
+    "looks": "Look for participation, reasoning, application, misconceptions, decisions, revisions and evidence of intended learning.",
+    "evidence": "Student responses, products, discussions, observations, drafts, presentations or reflections."
+  },
+  {
+    "name": "Challenge-Based Learning",
+    "slug": "challenge-based-learning",
+    "description": "Students work on a meaningful challenge and develop an actionable response.",
+    "levels": [
+      "HOTS"
+    ],
+    "tags": [
+      "active learning",
+      "student thinking"
+    ],
+    "duration": "30–60 min",
+    "groupSize": "Individual / pairs / groups",
+    "preparation": "Low–Moderate",
+    "consider": "the intended learning benefits from active participation, application, reasoning or reflection.",
+    "steps": [
+      "Clarify the learning outcome and success criteria.",
+      "Introduce the task, context, question, case, challenge or experience.",
+      "Give students time to work, discuss, investigate, practise or create.",
+      "Facilitate with questions and feedback.",
+      "Close with sharing, reflection or a short assessment."
+    ],
+    "teacher": "Frame the purpose, explain expectations, facilitate and capture evidence.",
+    "students": "Engage with the task, explain their thinking and produce a response, performance or product.",
+    "looks": "Look for participation, reasoning, application, misconceptions, decisions, revisions and evidence of intended learning.",
+    "evidence": "Student responses, products, discussions, observations, drafts, presentations or reflections."
+  },
+  {
+    "name": "Simulation-Based Learning",
+    "slug": "simulation-based-learning",
+    "description": "Students learn by participating in a realistic simulation or model of a situation.",
+    "levels": [
+      "MOTS",
+      "HOTS"
+    ],
+    "tags": [
+      "active learning",
+      "student thinking"
+    ],
+    "duration": "30–60 min",
+    "groupSize": "Individual / pairs / groups",
+    "preparation": "Low–Moderate",
+    "consider": "the intended learning benefits from active participation, application, reasoning or reflection.",
+    "steps": [
+      "Clarify the learning outcome and success criteria.",
+      "Introduce the task, context, question, case, challenge or experience.",
+      "Give students time to work, discuss, investigate, practise or create.",
+      "Facilitate with questions and feedback.",
+      "Close with sharing, reflection or a short assessment."
+    ],
+    "teacher": "Frame the purpose, explain expectations, facilitate and capture evidence.",
+    "students": "Engage with the task, explain their thinking and produce a response, performance or product.",
+    "looks": "Look for participation, reasoning, application, misconceptions, decisions, revisions and evidence of intended learning.",
+    "evidence": "Student responses, products, discussions, observations, drafts, presentations or reflections."
+  },
+  {
+    "name": "Role Play",
+    "slug": "role-play",
+    "description": "Students take roles in a structured situation to explore perspectives, decisions, or processes.",
+    "levels": [
+      "MOTS",
+      "HOTS"
+    ],
+    "tags": [
+      "active learning",
+      "student thinking"
+    ],
+    "duration": "30–60 min",
+    "groupSize": "Individual / pairs / groups",
+    "preparation": "Low–Moderate",
+    "consider": "the intended learning benefits from active participation, application, reasoning or reflection.",
+    "steps": [
+      "Clarify the learning outcome and success criteria.",
+      "Introduce the task, context, question, case, challenge or experience.",
+      "Give students time to work, discuss, investigate, practise or create.",
+      "Facilitate with questions and feedback.",
+      "Close with sharing, reflection or a short assessment."
+    ],
+    "teacher": "Frame the purpose, explain expectations, facilitate and capture evidence.",
+    "students": "Engage with the task, explain their thinking and produce a response, performance or product.",
+    "looks": "Look for participation, reasoning, application, misconceptions, decisions, revisions and evidence of intended learning.",
+    "evidence": "Student responses, products, discussions, observations, drafts, presentations or reflections."
+  },
+  {
+    "name": "Debate",
+    "slug": "debate",
+    "description": "Students develop and defend positions using reasoning and evidence.",
+    "levels": [
+      "HOTS"
+    ],
+    "tags": [
+      "active learning",
+      "student thinking"
+    ],
+    "duration": "30–60 min",
+    "groupSize": "Individual / pairs / groups",
+    "preparation": "Low–Moderate",
+    "consider": "the intended learning benefits from active participation, application, reasoning or reflection.",
+    "steps": [
+      "Clarify the learning outcome and success criteria.",
+      "Introduce the task, context, question, case, challenge or experience.",
+      "Give students time to work, discuss, investigate, practise or create.",
+      "Facilitate with questions and feedback.",
+      "Close with sharing, reflection or a short assessment."
+    ],
+    "teacher": "Frame the purpose, explain expectations, facilitate and capture evidence.",
+    "students": "Engage with the task, explain their thinking and produce a response, performance or product.",
+    "looks": "Look for participation, reasoning, application, misconceptions, decisions, revisions and evidence of intended learning.",
+    "evidence": "Student responses, products, discussions, observations, drafts, presentations or reflections."
+  },
+  {
+    "name": "Discussion-Based Learning",
+    "slug": "discussion-based-learning",
+    "description": "Structured discussion helps students develop, test, and communicate ideas.",
+    "levels": [
+      "MOTS",
+      "HOTS"
+    ],
+    "tags": [
+      "active learning",
+      "student thinking"
+    ],
+    "duration": "30–60 min",
+    "groupSize": "Individual / pairs / groups",
+    "preparation": "Low–Moderate",
+    "consider": "the intended learning benefits from active participation, application, reasoning or reflection.",
+    "steps": [
+      "Clarify the learning outcome and success criteria.",
+      "Introduce the task, context, question, case, challenge or experience.",
+      "Give students time to work, discuss, investigate, practise or create.",
+      "Facilitate with questions and feedback.",
+      "Close with sharing, reflection or a short assessment."
+    ],
+    "teacher": "Frame the purpose, explain expectations, facilitate and capture evidence.",
+    "students": "Engage with the task, explain their thinking and produce a response, performance or product.",
+    "looks": "Look for participation, reasoning, application, misconceptions, decisions, revisions and evidence of intended learning.",
+    "evidence": "Student responses, products, discussions, observations, drafts, presentations or reflections."
+  },
+  {
+    "name": "Think-Pair-Share",
+    "slug": "think-pair-share",
+    "description": "Students first think independently, then discuss with a partner, and finally share with the class.",
+    "levels": [
+      "LOTS",
+      "MOTS"
+    ],
+    "tags": [
+      "active learning",
+      "student thinking"
+    ],
+    "duration": "30–60 min",
+    "groupSize": "Individual / pairs / groups",
+    "preparation": "Low–Moderate",
+    "consider": "the intended learning benefits from active participation, application, reasoning or reflection.",
+    "steps": [
+      "Clarify the learning outcome and success criteria.",
+      "Introduce the task, context, question, case, challenge or experience.",
+      "Give students time to work, discuss, investigate, practise or create.",
+      "Facilitate with questions and feedback.",
+      "Close with sharing, reflection or a short assessment."
+    ],
+    "teacher": "Frame the purpose, explain expectations, facilitate and capture evidence.",
+    "students": "Engage with the task, explain their thinking and produce a response, performance or product.",
+    "looks": "Look for participation, reasoning, application, misconceptions, decisions, revisions and evidence of intended learning.",
+    "evidence": "Student responses, products, discussions, observations, drafts, presentations or reflections."
+  },
+  {
+    "name": "Gamification",
+    "slug": "gamification",
+    "description": "Learning activities use selected game elements to increase engagement and participation.",
+    "levels": [
+      "LOTS",
+      "MOTS"
+    ],
+    "tags": [
+      "active learning",
+      "student thinking"
+    ],
+    "duration": "30–60 min",
+    "groupSize": "Individual / pairs / groups",
+    "preparation": "Low–Moderate",
+    "consider": "the intended learning benefits from active participation, application, reasoning or reflection.",
+    "steps": [
+      "Clarify the learning outcome and success criteria.",
+      "Introduce the task, context, question, case, challenge or experience.",
+      "Give students time to work, discuss, investigate, practise or create.",
+      "Facilitate with questions and feedback.",
+      "Close with sharing, reflection or a short assessment."
+    ],
+    "teacher": "Frame the purpose, explain expectations, facilitate and capture evidence.",
+    "students": "Engage with the task, explain their thinking and produce a response, performance or product.",
+    "looks": "Look for participation, reasoning, application, misconceptions, decisions, revisions and evidence of intended learning.",
+    "evidence": "Student responses, products, discussions, observations, drafts, presentations or reflections."
+  },
+  {
+    "name": "Scenario-Based Learning",
+    "slug": "scenario-based-learning",
+    "description": "Students respond to realistic scenarios that require decisions or application.",
+    "levels": [
+      "MOTS",
+      "HOTS"
+    ],
+    "tags": [
+      "active learning",
+      "student thinking"
+    ],
+    "duration": "30–60 min",
+    "groupSize": "Individual / pairs / groups",
+    "preparation": "Low–Moderate",
+    "consider": "the intended learning benefits from active participation, application, reasoning or reflection.",
+    "steps": [
+      "Clarify the learning outcome and success criteria.",
+      "Introduce the task, context, question, case, challenge or experience.",
+      "Give students time to work, discuss, investigate, practise or create.",
+      "Facilitate with questions and feedback.",
+      "Close with sharing, reflection or a short assessment."
+    ],
+    "teacher": "Frame the purpose, explain expectations, facilitate and capture evidence.",
+    "students": "Engage with the task, explain their thinking and produce a response, performance or product.",
+    "looks": "Look for participation, reasoning, application, misconceptions, decisions, revisions and evidence of intended learning.",
+    "evidence": "Student responses, products, discussions, observations, drafts, presentations or reflections."
+  },
+  {
+    "name": "Reflective Learning",
+    "slug": "reflective-learning",
+    "description": "Students examine an experience or learning process and make meaning from it.",
+    "levels": [
+      "HOTS"
+    ],
+    "tags": [
+      "active learning",
+      "student thinking"
+    ],
+    "duration": "30–60 min",
+    "groupSize": "Individual / pairs / groups",
+    "preparation": "Low–Moderate",
+    "consider": "the intended learning benefits from active participation, application, reasoning or reflection.",
+    "steps": [
+      "Clarify the learning outcome and success criteria.",
+      "Introduce the task, context, question, case, challenge or experience.",
+      "Give students time to work, discuss, investigate, practise or create.",
+      "Facilitate with questions and feedback.",
+      "Close with sharing, reflection or a short assessment."
+    ],
+    "teacher": "Frame the purpose, explain expectations, facilitate and capture evidence.",
+    "students": "Engage with the task, explain their thinking and produce a response, performance or product.",
+    "looks": "Look for participation, reasoning, application, misconceptions, decisions, revisions and evidence of intended learning.",
+    "evidence": "Student responses, products, discussions, observations, drafts, presentations or reflections."
+  },
+  {
+    "name": "Service Learning",
+    "slug": "service-learning",
+    "description": "Students connect learning with meaningful service or community-oriented activity.",
+    "levels": [
+      "HOTS"
+    ],
+    "tags": [
+      "active learning",
+      "student thinking"
+    ],
+    "duration": "Multiple sessions",
+    "groupSize": "Individual / pairs / groups",
+    "preparation": "Low–Moderate",
+    "consider": "the intended learning benefits from active participation, application, reasoning or reflection.",
+    "steps": [
+      "Clarify the learning outcome and success criteria.",
+      "Introduce the task, context, question, case, challenge or experience.",
+      "Give students time to work, discuss, investigate, practise or create.",
+      "Facilitate with questions and feedback.",
+      "Close with sharing, reflection or a short assessment."
+    ],
+    "teacher": "Frame the purpose, explain expectations, facilitate and capture evidence.",
+    "students": "Engage with the task, explain their thinking and produce a response, performance or product.",
+    "looks": "Look for participation, reasoning, application, misconceptions, decisions, revisions and evidence of intended learning.",
+    "evidence": "Student responses, products, discussions, observations, drafts, presentations or reflections."
+  }
+]

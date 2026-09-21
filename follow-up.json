@@ -1,0 +1,200 @@
+[
+  {
+    "situation": "My students only want lecture notes.",
+    "explore": [
+      "What is happening now?",
+      "What has already been tried?",
+      "What is the main constraint or concern?"
+    ],
+    "questions": [
+      "What small change could be tried without redesigning the whole course?",
+      "What would students need to do differently?",
+      "What evidence would tell you whether the change helped?"
+    ],
+    "interventions": [
+      "Try one bounded activity in one class.",
+      "Use a short, low-risk prompt before or after existing teaching.",
+      "Capture one piece of evidence and reflect on it."
+    ]
+  },
+  {
+    "situation": "The faculty member has very little class time.",
+    "explore": [
+      "What is happening now?",
+      "What has already been tried?",
+      "What is the main constraint or concern?"
+    ],
+    "questions": [
+      "What small change could be tried without redesigning the whole course?",
+      "What would students need to do differently?",
+      "What evidence would tell you whether the change helped?"
+    ],
+    "interventions": [
+      "Try one bounded activity in one class.",
+      "Use a short, low-risk prompt before or after existing teaching.",
+      "Capture one piece of evidence and reflect on it."
+    ]
+  },
+  {
+    "situation": "The class is very large.",
+    "explore": [
+      "What is happening now?",
+      "What has already been tried?",
+      "What is the main constraint or concern?"
+    ],
+    "questions": [
+      "What small change could be tried without redesigning the whole course?",
+      "What would students need to do differently?",
+      "What evidence would tell you whether the change helped?"
+    ],
+    "interventions": [
+      "Try one bounded activity in one class.",
+      "Use a short, low-risk prompt before or after existing teaching.",
+      "Capture one piece of evidence and reflect on it."
+    ]
+  },
+  {
+    "situation": "Students seem passive in class.",
+    "explore": [
+      "What is happening now?",
+      "What has already been tried?",
+      "What is the main constraint or concern?"
+    ],
+    "questions": [
+      "What small change could be tried without redesigning the whole course?",
+      "What would students need to do differently?",
+      "What evidence would tell you whether the change helped?"
+    ],
+    "interventions": [
+      "Try one bounded activity in one class.",
+      "Use a short, low-risk prompt before or after existing teaching.",
+      "Capture one piece of evidence and reflect on it."
+    ]
+  },
+  {
+    "situation": "The faculty member relies heavily on lectures.",
+    "explore": [
+      "What is happening now?",
+      "What has already been tried?",
+      "What is the main constraint or concern?"
+    ],
+    "questions": [
+      "What small change could be tried without redesigning the whole course?",
+      "What would students need to do differently?",
+      "What evidence would tell you whether the change helped?"
+    ],
+    "interventions": [
+      "Try one bounded activity in one class.",
+      "Use a short, low-risk prompt before or after existing teaching.",
+      "Capture one piece of evidence and reflect on it."
+    ]
+  },
+  {
+    "situation": "Assessment is mostly recall.",
+    "explore": [
+      "What is happening now?",
+      "What has already been tried?",
+      "What is the main constraint or concern?"
+    ],
+    "questions": [
+      "What small change could be tried without redesigning the whole course?",
+      "What would students need to do differently?",
+      "What evidence would tell you whether the change helped?"
+    ],
+    "interventions": [
+      "Try one bounded activity in one class.",
+      "Use a short, low-risk prompt before or after existing teaching.",
+      "Capture one piece of evidence and reflect on it."
+    ]
+  },
+  {
+    "situation": "The faculty member wants to introduce HOTS.",
+    "explore": [
+      "What is happening now?",
+      "What has already been tried?",
+      "What is the main constraint or concern?"
+    ],
+    "questions": [
+      "What small change could be tried without redesigning the whole course?",
+      "What would students need to do differently?",
+      "What evidence would tell you whether the change helped?"
+    ],
+    "interventions": [
+      "Try one bounded activity in one class.",
+      "Use a short, low-risk prompt before or after existing teaching.",
+      "Capture one piece of evidence and reflect on it."
+    ]
+  },
+  {
+    "situation": "The faculty member wants to try project work.",
+    "explore": [
+      "What is happening now?",
+      "What has already been tried?",
+      "What is the main constraint or concern?"
+    ],
+    "questions": [
+      "What small change could be tried without redesigning the whole course?",
+      "What would students need to do differently?",
+      "What evidence would tell you whether the change helped?"
+    ],
+    "interventions": [
+      "Try one bounded activity in one class.",
+      "Use a short, low-risk prompt before or after existing teaching.",
+      "Capture one piece of evidence and reflect on it."
+    ]
+  },
+  {
+    "situation": "The faculty member is unsure what evidence to collect.",
+    "explore": [
+      "What is happening now?",
+      "What has already been tried?",
+      "What is the main constraint or concern?"
+    ],
+    "questions": [
+      "What small change could be tried without redesigning the whole course?",
+      "What would students need to do differently?",
+      "What evidence would tell you whether the change helped?"
+    ],
+    "interventions": [
+      "Try one bounded activity in one class.",
+      "Use a short, low-risk prompt before or after existing teaching.",
+      "Capture one piece of evidence and reflect on it."
+    ]
+  },
+  {
+    "situation": "The faculty member already uses innovative teaching.",
+    "explore": [
+      "What is happening now?",
+      "What has already been tried?",
+      "What is the main constraint or concern?"
+    ],
+    "questions": [
+      "What small change could be tried without redesigning the whole course?",
+      "What would students need to do differently?",
+      "What evidence would tell you whether the change helped?"
+    ],
+    "interventions": [
+      "Try one bounded activity in one class.",
+      "Use a short, low-risk prompt before or after existing teaching.",
+      "Capture one piece of evidence and reflect on it."
+    ]
+  },
+  {
+    "situation": "The faculty member wants something simple rather than a major redesign.",
+    "explore": [
+      "What is happening now?",
+      "What has already been tried?",
+      "What is the main constraint or concern?"
+    ],
+    "questions": [
+      "What small change could be tried without redesigning the whole course?",
+      "What would students need to do differently?",
+      "What evidence would tell you whether the change helped?"
+    ],
+    "interventions": [
+      "Try one bounded activity in one class.",
+      "Use a short, low-risk prompt before or after existing teaching.",
+      "Capture one piece of evidence and reflect on it."
+    ]
+  }
+]

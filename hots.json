@@ -1,0 +1,44 @@
+[
+  {
+    "discipline": "Computer Science",
+    "lots": "Define cloud computing.",
+    "mots": "Demonstrate how you would select a cloud service for a small business.",
+    "hots": "A small business must choose between two cloud architectures. Analyse the requirements, compare the alternatives, and justify your recommendation."
+  },
+  {
+    "discipline": "Physics",
+    "lots": "Define Newton's second law.",
+    "mots": "Apply Newton’s second law to a stated situation.",
+    "hots": "Analyse an unfamiliar motion scenario, evaluate assumptions, and justify the model you would use."
+  },
+  {
+    "discipline": "Psychology",
+    "lots": "Define classical conditioning.",
+    "mots": "Apply conditioning concepts to a behaviour example.",
+    "hots": "Analyse a behavioural case, evaluate competing explanations, and propose an evidence-based intervention."
+  },
+  {
+    "discipline": "Commerce",
+    "lots": "Define working capital.",
+    "mots": "Apply working-capital concepts to a business situation.",
+    "hots": "Analyse a business financial situation, compare possible actions, and justify a response."
+  },
+  {
+    "discipline": "English",
+    "lots": "Define a literary device.",
+    "mots": "Apply a literary device to interpret a passage.",
+    "hots": "Analyse how multiple choices shape meaning, evaluate interpretations, and construct a supported reading."
+  },
+  {
+    "discipline": "Mathematics",
+    "lots": "State a relevant formula.",
+    "mots": "Apply the formula to a new problem.",
+    "hots": "Analyse alternative solution paths, evaluate assumptions, and justify an efficient solution."
+  },
+  {
+    "discipline": "Chemistry",
+    "lots": "Define a chemical concept.",
+    "mots": "Apply the concept to a laboratory or reaction situation.",
+    "hots": "Analyse observations, evaluate explanations, and propose a justified conclusion."
+  }
+]
